@@ -10,7 +10,7 @@ var refresh = function(){
         $scope.user = "";
     });
     }
-    refresh();
+    //refresh();
 
 $scope.addUser = function() {
     console.log($scope.user);
